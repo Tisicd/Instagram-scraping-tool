@@ -1,0 +1,11 @@
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Cookies and local config
+**/cookies.json
+backend/src/config/
+
+# Build outputs
+build/
+dist/
