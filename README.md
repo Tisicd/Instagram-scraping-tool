@@ -49,6 +49,7 @@ cd scraping-tool
 ```bash
 cd backend
 npm install
+npx playwrigth install
 ```
 
 ---
